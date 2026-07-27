@@ -1,5 +1,9 @@
 # Kimi Web Agent Skills Collection
 
+<p align="center">
+  <img src="assets/Skills_for_kimi_README_poster_zh_fixed.png" alt="Skills for Kimi 海报" width="700">
+</p>
+
 [English](./README.md)|[中文说明]
 
 Kimi Web Agent中包含的高质量 Skill 。

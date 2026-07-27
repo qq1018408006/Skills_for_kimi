@@ -1,5 +1,9 @@
 # Kimi Web Agent Skills Collection
 
+<p align="center">
+  <img src="assets/Skills_for_kimi_README_poster_en_fixed.png" alt="Skills for Kimi poster" width="700">
+</p>
+
 [English]|[中文说明](./README_ZH.md)
 
 A curated collection of high-quality Skills provided by Kimi Web Agent.
